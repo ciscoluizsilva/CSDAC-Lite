@@ -1,0 +1,12 @@
+setup.py
+src/client/__init__.py
+src/client/fmc_client.py
+src/client/shared_models.py
+src/client/dynamic_objects/__init__.py
+src/client/dynamic_objects/api.py
+src/client/dynamic_objects/models.py
+src/csdac_lite.egg-info/PKG-INFO
+src/csdac_lite.egg-info/SOURCES.txt
+src/csdac_lite.egg-info/dependency_links.txt
+src/csdac_lite.egg-info/requires.txt
+src/csdac_lite.egg-info/top_level.txt
